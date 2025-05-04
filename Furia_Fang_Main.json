@@ -268,6 +268,25 @@
         40
       ],
       "typeVersion": 1.8
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.toolSerpApi",
+      "typeVersion": 1,
+      "position": [
+        640,
+        460
+      ],
+      "id": "35288e48-8bc5-4e39-90dd-882ee46ba72e",
+      "name": "SerpAPI",
+      "credentials": {
+        "serpApi": {
+          "id": "mzktA2FRj87ckFj2",
+          "name": "SerpAPI account 2"
+        }
+      }
     }
   ],
   "pinData": {},
@@ -348,13 +367,29 @@
           }
         ]
       ]
+    },
+    "Fang": {
+      "main": [
+        []
+      ]
+    },
+    "SerpAPI": {
+      "ai_tool": [
+        [
+          {
+            "node": "Fang",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
     }
   },
   "active": true,
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "02e6c990-3ae5-4ad0-ba47-805e65ea1275",
+  "versionId": "4b3d96cd-3729-445a-a7a1-2a1e56bbd29d",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "f069a1c70f7db203f77cf0f4f98da9271cd20a5817368b3d69c1f03dc6949548"
