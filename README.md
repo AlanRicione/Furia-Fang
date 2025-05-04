@@ -20,3 +20,9 @@ Ele utiliza ferramentas simples de webscraping (Jina AI), para pegar as informa�
 ## ☕ Usando o Fang
 
 O Fang é um bot simples de usar, basta perguntar e ele responde com as informções mais atualizadas disponiveis.
+
+
+## 👀 Visualizando o codígo e prompts no n8n
+
+Basta copiar o json e colar dentro da plataforma (n8n.io), para ver o funcionamento de forma mais bruta.
+
