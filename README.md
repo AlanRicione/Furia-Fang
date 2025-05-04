@@ -1,12 +1,12 @@
-# Furia-Fang
+# Furia Fang Chatbot
 
 ## 🛠️ Ferramentas Utilizadas
--n8n  
--Jina AI (Web Scarping)
--SerpAPI (Google search API)
--Codepen (Website)
--Openrouter (AI Chat Model API)
--Draft5 (Website)
+- n8n
+- Jina AI (Web Scarping)
+- SerpAPI (Google search API)
+- Codepen (Website)
+- Openrouter (AI Chat Model API)
+- Draft5 (Website)
 
 
 ## ❓ Como o Fang funciona?
@@ -19,4 +19,4 @@ Ele utiliza ferramentas simples de webscraping (Jina AI), para pegar as informa�
 
 ## ☕ Usando o Fang
 
-O Fang é um bot simples de usar, basta perguntar e ele responde.
+O Fang é um bot simples de usar, basta perguntar e ele responde com as informções mais atualizadas disponiveis.
